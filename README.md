@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=UTqOXwAi1pE
 **How to uninstall Anaconda completely from Windows 10:**<br>
 https://www.youtube.com/watch?v=OUkHXMwu-JY
 
+**Exception Hierarchy in Python:** <br>
+https://docs.python.org/3.12/library/exceptions.html
+
 **For Diagram Making:**<br>
 https://app.diagrams.net/
 
