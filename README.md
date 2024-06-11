@@ -62,8 +62,14 @@ https://htmlcolorcodes.com/
 https://www.w3schools.com/html/default.asp<br>
 https://www.youtube.com/watch?v=qz0aGYrrlhU
 
+**User Registration Form Design Using HTML:**<br>
+https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
+
 **Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
+
+**Scrum Guide PDF:**<br>
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 
 **Selenium Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
@@ -89,6 +95,12 @@ https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 ## Sample Template for User Stories:
 
 ![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+
+<hr>
+
+## HTML Classwork - Class Routine
+
+![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/1da1f9f2-4cae-4fc2-9243-c81e83148a5e)
 
 <hr>
 
