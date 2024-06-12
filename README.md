@@ -136,7 +136,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 ## Sample Template for User Stories:
 
-![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
+![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/d6ae0201-557f-4662-8da8-0ea143d20e80)
 
 <hr>
 
