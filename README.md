@@ -1,10 +1,8 @@
 # USA_QA_286
 
-**Pressman E-Book Download Link (8th Edition):**<br>
-https://invent.ilmkidunya.com/images/Section/12.pdf
+<hr>
 
-**Pressman E-Book Download Link (7th Edition):**<br>
-https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+## Chapter-1 - Project Management Resources:
 
 **Tutorials on Project Management:**<br>
 * https://www.guru99.com/initiation-phase-project-management-life-cycle.html
@@ -13,6 +11,30 @@ https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practiti
 
 **MS-Project Trial Version Download:**<br>
 https://www.microsoft.com/en-in/microsoft-365/project/compare-microsoft-project-management-software?tab=1&ef_id=_k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&OCID=AIDcmmapr1szny_SEM__k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB
+
+or
+
+http://tinyurl.com/44y8ppnj
+
+<hr>
+
+## Chapter-2 - SDLC Resources:
+
+**Pressman E-Book Download Link (8th Edition):**<br>
+https://invent.ilmkidunya.com/images/Section/12.pdf
+
+**Pressman E-Book Download Link (7th Edition):**<br>
+https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+
+**Sample User Stories:**<br>
+https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
+
+**Scrum Guide PDF:**<br>
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+
+<hr>
+
+## Chapter-3 - Python Resources:
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
@@ -30,6 +52,55 @@ https://docs.python.org/3/tutorial/
 **Exception Hierarchy in Python:** <br>
 https://docs.python.org/3.12/library/exceptions.html
 
+**Online Python Editors:**<br>
+https://onecompiler.com/<br>
+https://www.onlinegdb.com/
+
+**Python Study Material Links:**<br>
+**Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
+**Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
+**Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
+**Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
+
+<hr>
+
+## Chapter-4 - HTML Resources:
+
+**HTML Color Codes:**<br>
+https://htmlcolorcodes.com/
+
+**HTML Text/Video Tutorial Link:**<br>
+https://www.w3schools.com/html/default.asp<br>
+https://www.youtube.com/watch?v=qz0aGYrrlhU
+
+**User Registration Form Design Using HTML:**<br>
+https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
+
+<hr>
+
+## Chapter-5 - Selenium Resources:
+
+**Selenium Text Tutorial Link:**<br>
+https://www.javatpoint.com/selenium-tutorial<br>
+https://pythonspot.com/category/selenium/<br>
+https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
+
+**Selenium Video Tutorial Link:**<br>
+https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
+https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
+
+**Selenium Sample Classwork Project:**<br> 
+https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
+
+**Before we start Python Coding with Selenium, participant should take following initiatives:**<br>
+* Make Chrome as your default browser
+* Download and install Anaconda and check Jupyter Lab is working fine in the Anaconda by running some sample Python codes
+* Login your class from your system (Desktop/Laptop) and not from your mobile
+
+<hr>
+
+## Chapter-6 - UML and www.draw.io Resources:
+
 **For Diagram Making:**<br>
 https://app.diagrams.net/
 
@@ -45,42 +116,10 @@ https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6M
 **UML Project Diagram Samples:**<br>
 https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
-**Online Python Editors:**<br>
-https://onecompiler.com/<br>
-https://www.onlinegdb.com/
+<hr>
 
-**Python Study Material Links:**<br>
-**Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
-**Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
-**Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
-**Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
+## Chapter-7 - MS-Office/O365 Reference Tutorial Links and Resources:
 
-**HTML Color Codes:**<br>
-https://htmlcolorcodes.com/
-
-**HTML Text/Video Tutorial Link:**<br>
-https://www.w3schools.com/html/default.asp<br>
-https://www.youtube.com/watch?v=qz0aGYrrlhU
-
-**User Registration Form Design Using HTML:**<br>
-https://www.tutorialstonight.com/online-html-editor?p=html&q=registration-form-in-html-2
-
-**Sample User Stories:**<br>
-https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
-
-**Scrum Guide PDF:**<br>
-https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
-
-**Selenium Text Tutorial Link:**<br>
-https://www.javatpoint.com/selenium-tutorial<br>
-https://pythonspot.com/category/selenium/<br>
-https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
-
-**Selenium Video Tutorial Link:**<br>
-https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
-https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
-
-**MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
 * **MS-Office 2013:** https://edu.gcfglobal.org/en/topics/office2013/
@@ -100,21 +139,11 @@ https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 
 ## HTML Classwork - Class Routine
 
-![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/1da1f9f2-4cae-4fc2-9243-c81e83148a5e)
+![image](https://github.com/toarnabtrainer/USA_QA/assets/111301975/82fbf7e9-fd0c-4e6e-90b0-7ea5f4d21dc4)
 
 <hr>
 
-**Selenium Sample Classwork Project:**<br> 
-https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
-
-<hr>
-
-**Before we start Python Coding with Selenium, participant should take following initiatives:**<br>
-* Make Chrome as your default browser
-* Download and install Anaconda and check Jupyter Lab is working fine in the Anaconda by running some sample Python codes
-* Login your class from your system (Desktop/Laptop) and not from your mobile
-  
-<hr>
+# Python Tutorial:
 
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
