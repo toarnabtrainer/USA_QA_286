@@ -69,6 +69,9 @@ https://www.onlinegdb.com/
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
+**Online HTML Editor:**<br>
+https://html-online.com/
+
 **HTML Text/Video Tutorial Link:**<br>
 https://www.w3schools.com/html/default.asp<br>
 https://www.youtube.com/watch?v=qz0aGYrrlhU
